@@ -1,1 +1,2 @@
-Egy kis változás
+﻿Egy kis változás
+Ez a sor módosítva a lokális gépen
